@@ -1,0 +1,20 @@
+/*exercicio 1
+alert("Olá Mundo");
+
+//exercicio 2
+var num1 = 10;
+var num2 = 45;
+alert (num1 + num2);
+
+//exercicio 3
+var idade = prompt("Digite seu ano de nascimento");
+alert("2019" - idade);*/
+
+ 
+//exercicio 4
+var num1 = parseInt(prompt ("Digite um número"));
+var num2 = parseInt(prompt ("Digite mais um número"));
+var num3 = parseInt(prompt ("Digite e mais um por último"));
+
+var media = ((num1 + num2 + num3) / 3);
+console.log(media);
